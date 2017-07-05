@@ -1,0 +1,32 @@
+INFO  | 2017-03-22 14:57:05 | [main]  - Please enter your choise: 
+rename book - press 1; 
+choose employess hwo've read more than one book - 2; 
+choose employess hwo've read less than three books - 3; 
+INFO  | 2017-03-22 14:57:10 | [main]  - Adara Whitehead : 2
+INFO  | 2017-03-22 14:57:10 | [main]  - Alea Jefferson : 2
+INFO  | 2017-03-22 14:57:10 | [main]  - Candace Puckett : 2
+INFO  | 2017-03-22 14:57:10 | [main]  - Desiree Mckay : 3
+INFO  | 2017-03-22 14:57:10 | [main]  - Emily Parker : 3
+INFO  | 2017-03-22 14:57:10 | [main]  - Francis Ferguson : 4
+INFO  | 2017-03-22 14:57:10 | [main]  - Grady Bright : 2
+INFO  | 2017-03-22 14:57:10 | [main]  - Hasad Goodman : 3
+INFO  | 2017-03-22 14:57:10 | [main]  - Hyacinth Bowers : 2
+INFO  | 2017-03-22 14:57:10 | [main]  - Justine Heath : 2
+INFO  | 2017-03-22 14:57:10 | [main]  - Kalia Carson : 2
+INFO  | 2017-03-22 14:57:10 | [main]  - Karyn Ward : 4
+INFO  | 2017-03-22 14:57:10 | [main]  - Kay Sargent : 2
+INFO  | 2017-03-22 14:57:10 | [main]  - Keelie Wallace : 3
+INFO  | 2017-03-22 14:57:10 | [main]  - Lilah Sykes : 2
+INFO  | 2017-03-22 14:57:10 | [main]  - Lyle Stuart : 3
+INFO  | 2017-03-22 14:57:10 | [main]  - Maris Valentine : 2
+INFO  | 2017-03-22 14:57:10 | [main]  - McKenzie Rosario : 2
+INFO  | 2017-03-22 14:57:10 | [main]  - Palmer Summers : 3
+INFO  | 2017-03-22 14:57:10 | [main]  - Paula Stuart : 2
+INFO  | 2017-03-22 14:57:10 | [main]  - Rhona Hines : 2
+INFO  | 2017-03-22 14:57:10 | [main]  - Rose Sosa : 2
+INFO  | 2017-03-22 14:57:10 | [main]  - Salvador Elliott : 2
+INFO  | 2017-03-22 14:57:10 | [main]  - Sawyer Oconnor : 2
+INFO  | 2017-03-22 14:57:10 | [main]  - Tatiana Wright : 2
+INFO  | 2017-03-22 14:57:10 | [main]  - Violet Evans : 2
+INFO  | 2017-03-22 14:57:10 | [main]  - Xerxes Snider : 2
+INFO  | 2017-03-22 14:57:10 | [main]  - Please type 'y' if you want prolong, or any key to quit.
